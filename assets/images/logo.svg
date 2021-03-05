@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63px" height="63px" viewBox="0 0 63 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <circle id="path-1" cx="18.5" cy="16.5" r="12.5"></circle>
+        <filter x="-114.0%" y="-114.0%" width="328.0%" height="328.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.553092704   0 0 0 0 0.267568598   0 0 0 0 1  0 0 0 0.101535184 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(13.000000, 15.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group">
+                <path d="M16.5015179,8.68904699 L1.27813222,18.5659017 C0.814817635,18.8664979 0.682908265,19.4857699 0.983504401,19.9490844 C1.05799298,20.0638951 1.15525528,20.162194 1.26926987,20.2378954 L17.7783876,31.1993367 C18.796023,31.8750088 20.1217136,31.8662025 21.1302828,31.1770706 L35.9857456,21.0266791 C36.4417486,20.7151029 36.5588296,20.0928571 36.2472534,19.6368541 C36.1683109,19.5213189 36.0659997,19.4236373 35.9469354,19.3501255 L18.6407695,8.66508307 C17.9829823,8.25895703 17.1500423,8.26828763 16.5015179,8.68904699 Z" id="Path" fill="#3E0C8E"></path>
+                <path d="M16.5015179,0.689046988 L1.27813222,10.5659017 C0.814817635,10.8664979 0.682908265,11.4857699 0.983504401,11.9490844 C1.05799298,12.0638951 1.15525528,12.162194 1.26926987,12.2378954 L17.7783876,23.1993367 C18.796023,23.8750088 20.1217136,23.8662025 21.1302828,23.1770706 L35.9857456,13.0266791 C36.4417486,12.7151029 36.5588296,12.0928571 36.2472534,11.6368541 C36.1683109,11.5213189 36.0659997,11.4236373 35.9469354,11.3501255 L18.6407695,0.665083071 C17.9829823,0.258957033 17.1500423,0.268287635 16.5015179,0.689046988 Z" id="Path" fill="#6300FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
