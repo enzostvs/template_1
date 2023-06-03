@@ -2,61 +2,61 @@
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 100;
-    src: local('Carmen Sans UltraLight'), url('Carmen Sans UltraLight.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ UltraLight.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 200;
-    src: local('Carmen Sans Thin'), url('Carmen Sans Thin.woff') format('woff');
+    src:  url('./../fonts/Carmen\ Sans\ Thin.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 300;
-    src: local('Carmen Sans Light'), url('Carmen Sans Light.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ Light.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 400;
-    src: local('Carmen Sans Regular'), url('Carmen Sans Regular.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ Regular.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 500;
-    src: local('Carmen Sans Medium'), url('Carmen Sans Medium.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ Medium.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 600;
-    src: local('Carmen Sans SemiBold'), url('Carmen Sans SemiBold.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ SemiBold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 700;
-    src: local('Carmen Sans Bold'), url('Carmen Sans Bold.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ Bold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 800;
-    src: local('Carmen Sans ExtraBold'), url('Carmen Sans ExtraBold.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ ExtraBold.woff') format('woff');
 }
 
 @font-face {
     font-family: 'Carmen';
     font-style: normal;
     font-weight: 900;
-    src: local('Carmen Sans Heavy'), url('Carmen Sans Heavy.woff') format('woff');
+    src: url('./../fonts/Carmen\ Sans\ Heavy.woff') format('woff');
 }
